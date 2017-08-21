@@ -14,3 +14,5 @@ Cenário: Autoavaliação sem estar com todas as notas dadas
 	E existem notas que ainda não foram dadas
 	Quando o aluno “dsq” escolhe fazer sua autoavaliação
 	Então uma mensagem de erro é aparece na tela
+
+	dd
